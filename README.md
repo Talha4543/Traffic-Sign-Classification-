@@ -48,7 +48,7 @@ pip install tensorflow numpy pandas matplotlib
 ## Usage
 1. Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/yourusername/traffic-sign-classification.git
+   git clone https://github.com/Talha4543/traffic-sign-classification.git
    ```
 2. Ensure you have the required dependencies installed as mentioned above.
 3. Open the Jupyter Notebook file (`Traffic_Sign_Classification.ipynb`) in your preferred environment (e.g., Jupyter Notebook, VSCode, Google Colab).
